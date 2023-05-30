@@ -18,7 +18,7 @@ Then we started working on our project which consisted on creating a more advanc
 **-** [MNIST dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/dcgan-mnist.ipynb)
 
 
-**-** [CelebA dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/dcgan-celebA.ipynb)
+**-** [CelebA dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/dcgan-celeba.ipynb)
 
 ## Key Features:
 
