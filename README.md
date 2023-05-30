@@ -6,7 +6,7 @@ This GitHub repository contains an implementation of Deep Convolutional Generati
 ## Project description:
 We began this project by understanding GAN components and how to use Pytorch to generate images. We built a basic GAN using PyTorch and trained it on MNIST and Fashion-MNIST. you can find it in these 2 notebooks:
 
-  **-** [Generating Fashion-MNIST images with dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/Generating_Fashion_MNIST_Images_with_DCGAN.ipynb)
+  **-** [Generating Fashion-MNIST images with dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/Generating_Fashion_MNIST_Images_with_DCGAN%20(1).ipynb)
      
    **-** [Generating MNIST images with dcgan](https://github.com/SelmaGuedidi/generating-images-with-dcgan/blob/main/Generating_MNIST_Images_with_DCGAN.ipynb)
    
